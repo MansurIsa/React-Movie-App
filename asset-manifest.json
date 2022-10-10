@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bfadfe1b.css",
+    "main.js": "./static/js/main.962eaa2f.js",
+    "static/media/image_1.png": "./static/media/image_1.1be6c67844057024f4bc.png",
+    "static/media/kimi-movie-poster-md 1.png": "./static/media/kimi-movie-poster-md 1.5e315ccce4de8a02de31.png",
+    "static/media/image 15.png": "./static/media/image 15.41b50631c4e235796287.png",
+    "static/media/image 14.png": "./static/media/image 14.7a00fbaa54e6d086c91e.png",
+    "static/media/image 17.png": "./static/media/image 17.bc0d80946f72685b2f91.png",
+    "static/media/image 13.png": "./static/media/image 13.6686083e17c9e5b79fb7.png",
+    "index.html": "./index.html",
+    "main.bfadfe1b.css.map": "./static/css/main.bfadfe1b.css.map",
+    "main.962eaa2f.js.map": "./static/js/main.962eaa2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfadfe1b.css",
+    "static/js/main.962eaa2f.js"
+  ]
+}
